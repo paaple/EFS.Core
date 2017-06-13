@@ -1,0 +1,6 @@
+E:\MyProject\NetProject\Repos\EFS.Core\EFS.Core\bin\Debug\TFS.Core.dll
+E:\MyProject\NetProject\Repos\EFS.Core\EFS.Core\bin\Debug\TFS.Core.pdb
+E:\MyProject\NetProject\Repos\EFS.Core\EFS.Core\obj\Debug\TFS.Core.Resource1.resources
+E:\MyProject\NetProject\Repos\EFS.Core\EFS.Core\obj\Debug\TFS.Core.csproj.GenerateResource.Cache
+E:\MyProject\NetProject\Repos\EFS.Core\EFS.Core\obj\Debug\TFS.Core.dll
+E:\MyProject\NetProject\Repos\EFS.Core\EFS.Core\obj\Debug\TFS.Core.pdb
