@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFS.Core", "EFS.Core\TFS.Core.csproj", "{4C7FA4F9-E7F4-4B80-BE25-F0768866F4F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFS.Core", "EFS.Core\EFS.Core.csproj", "{4C7FA4F9-E7F4-4B80-BE25-F0768866F4F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
